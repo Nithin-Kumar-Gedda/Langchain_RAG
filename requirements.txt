@@ -13,3 +13,6 @@ pypdf
 langchain_text_splitters
 chromadb    # Dbase
 faiss-cpu   # one tpye of Dbase
+wikipedia
+arxiv
+langchainhub
