@@ -16,3 +16,6 @@ faiss-cpu   # one tpye of Dbase
 wikipedia
 arxiv
 langchainhub
+langchain-groq
+groq
+beautifulsoup4
