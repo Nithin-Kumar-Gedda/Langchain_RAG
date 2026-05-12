@@ -19,3 +19,8 @@ langchainhub
 langchain-groq
 groq
 beautifulsoup4
+pinecone-text 
+pinecone-notebooks
+pinecone-client
+langchain_huggingface
+sentence-transformers
